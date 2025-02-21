@@ -15,7 +15,7 @@ read num2
 result=$((num1 - num2))
 
 #Saving History
-echo "$(date) - The subraction of $num1 and $num2 is: $result" >> history5.txt
+echo "$(date) - The subraction of $num1 and $num2 is: $result" >> history.txt
 
 #Answer
 echo The Subraction Of $num1 And $num2 Is :$result
